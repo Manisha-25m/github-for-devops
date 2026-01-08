@@ -8,4 +8,5 @@ git status
    git rm --cache
    git rm --cached
    git rm --cached testing.py
-  
+   git restore testing.py
+   git commit -m "added"
